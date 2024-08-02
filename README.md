@@ -34,7 +34,7 @@ python web_crawler_vulnerability_scanner.py
 Usage: 
 ```
 if __name__ == "__main__":
-    base_url = 'https://jaipur.manipal.edu'
+    base_url = 'https://exaample.com'
     crawler = WebCrawler(base_url)
     crawler.crawl()
     print(f"Visited URLs: {crawler.visited_urls}")
