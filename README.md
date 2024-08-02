@@ -24,7 +24,7 @@ pip install requests beautifulsoup4 urllib3
 Installation
 Clone the repository:
 ```
-git clone https://github.com/your-username/WebCrawlerVulnerabilityScanner.git
+git clone https://github.com/rohitajariwal/web-app-security-scanner.git
 cd WebCrawlerVulnerabilityScanner
 ```
 Run the tool:
