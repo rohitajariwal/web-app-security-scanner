@@ -1,4 +1,3 @@
-# web-app-security-scanner
 # Web Crawler and Vulnerability Scanner
 
 This project is a web crawler and vulnerability scanner tool developed by Rohit Ajariwal. The tool is designed to crawl a website and scan for common web application vulnerabilities, including SQL injection, XSS, command injection, file inclusion, directory traversal, HTML injection, CSRF, LFI, RFI, LDAP injection, XXE, SSRF, unvalidated redirects, and clickjacking.
