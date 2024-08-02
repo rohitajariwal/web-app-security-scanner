@@ -73,11 +73,4 @@ Requests
 MIT License
 
 
-Feel free to modify the README file as needed to better fit your project. Once done, you can add, commit, and push the README file to your GitHub repository:
-
-```sh
-git add README.md
-git commit -m "Added README file"
-git push origin main
-
 
