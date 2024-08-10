@@ -265,6 +265,4 @@ if __name__ == "__main__":
 
 This script is a basic web crawler and vulnerability scanner that can identify several common web application vulnerabilities by submitting payloads to forms on the target website and analyzing the responses. 
 
-Ready to move on to the next project? If so, please provide the details or focus area for the next project you'd like to work on!
-
 
