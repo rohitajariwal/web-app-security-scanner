@@ -256,7 +256,7 @@ Example Usage
 ```python
 # Example usage
 if __name__ == "__main__":
-    base_url = 'https://jaipur.manipal.edu'
+    base_url = 'https://example.com'
     crawler = WebCrawler(base_url)
     crawler.crawl()
     print(f"Visited URLs: {crawler.visited_urls}")
